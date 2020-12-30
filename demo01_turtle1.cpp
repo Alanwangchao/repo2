@@ -8,6 +8,8 @@
 
 #include <tf/transform_broadcaster.h>
 
+#include <vector>
+
 
 using namespace std;
 
